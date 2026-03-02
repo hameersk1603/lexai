@@ -104,12 +104,4 @@ lexai/
 
 ## 👨‍💻 Developer
 Made by **Hameer** — [GitHub](https://github.com/hameersk1603)
-```
 
----
-
-Just copy this, create a `README.md` file in your project root and paste it. Then:
-```
-git add README.md
-git commit -m "add README"
-git push
